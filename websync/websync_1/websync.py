@@ -15,11 +15,11 @@ Features -
 
 import boto3
 import click
-from bucket import BucketManager
-from domain import DomainManager
-from certificate import CertificateManager
-from cdn import DistributionManager
-import util
+from websync_1.bucket import BucketManager
+from websync_1.domain import DomainManager
+from websync_1.certificate import CertificateManager
+from websync_1.cdn import DistributionManager
+from websync_1 import util
 
 session = None
 bucket_manager = None
