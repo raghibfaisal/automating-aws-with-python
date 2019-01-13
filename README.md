@@ -1,7 +1,7 @@
 # Automating AWS with python
 
-# Webotron
-It is a script that will sync a local directory with an aws S3 bucket.
+# WEBSYNC
+It is a script that will sync a local directory with an AWS S3 bucket.
 
 # Features
 
